@@ -33,7 +33,7 @@ struct CardView: View {
                             CustomButtonView()
                         })
                     }
-                    Text("FUn and enjoyable outdoor activity for friends and families.")
+                    Text("Fun and enjoyable outdoor activity for friends and families.")
                         .multilineTextAlignment(.leading)
                         .italic()
                         .foregroundColor(.customGrayMedium)
