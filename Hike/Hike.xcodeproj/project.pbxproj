@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F30390992ADF4E11003BD447 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F30390982ADF4E11003BD447 /* GradientButtonStyle.swift */; };
 		F3F77A4F2ADDC87500879475 /* HikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F77A4E2ADDC87500879475 /* HikeApp.swift */; };
 		F3F77A512ADDC87500879475 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F77A502ADDC87500879475 /* ContentView.swift */; };
 		F3F77A532ADDC87700879475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3F77A522ADDC87700879475 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F30390982ADF4E11003BD447 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
 		F3F77A4B2ADDC87500879475 /* Hike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3F77A4E2ADDC87500879475 /* HikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeApp.swift; sourceTree = "<group>"; };
 		F3F77A502ADDC87500879475 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				F3F77A622ADDDD2500879475 /* ColorExtension.swift */,
+				F30390982ADF4E11003BD447 /* GradientButtonStyle.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3F77A512ADDC87500879475 /* ContentView.swift in Sources */,
+				F30390992ADF4E11003BD447 /* GradientButtonStyle.swift in Sources */,
 				F3F77A5D2ADDD2AC00879475 /* CardView.swift in Sources */,
 				F3F77A4F2ADDC87500879475 /* HikeApp.swift in Sources */,
 				F3F77A652ADF227000879475 /* CustomButtonView.swift in Sources */,
